@@ -1,6 +1,6 @@
 <?php
 
-namespace Divulgueregional\apibbphp;
+namespace Troliveira\apibbphp;
 
 use Dompdf\Dompdf;
 

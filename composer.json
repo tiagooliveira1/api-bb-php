@@ -1,11 +1,11 @@
 {
-    "name": "divulgueregional/api-bb-php",
-    "description": "API para gerar boletos do Banco do Brasil",
+    "name": "troliveira/api-bb-php",
+    "description": "Fork da API para gerar boletos do Banco do Brasil desenvolvido por Roseno Matos - divulgueregional/api-bb-php",
     "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Divulgueregional\\ApiBbPhp\\": "src/"
+            "Troliveira\\ApiBbPhp\\": "src/"
         }
     },
     "authors": [

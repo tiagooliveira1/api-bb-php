@@ -1,5 +1,6 @@
 /vendor
 composer.lock
+.idea
 /src/BankingBB copy.php
 /docs/COBRANÇAS/BoletoBB.zip
 /docs/COBRANÇAS/Boleto Em PDF/vendor
