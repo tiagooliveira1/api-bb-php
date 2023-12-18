@@ -11,7 +11,7 @@ Altera algumas informações de um boleto gerado.
 
 ```php
     require_once './api-bb-php/vendor/autoload.php';
-    use Divulgueregional\ApiBbPhp\BankingBB;
+    use Troliveira\ApiBbPhp\BankingBB;
 
     $config = [
         'endPoints' => 2, //1-Produção; 2- Homologação

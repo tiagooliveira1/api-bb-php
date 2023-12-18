@@ -2,10 +2,10 @@
 
 namespace Troliveira\apibbphp;
 
-use Divulgueregional\ApiBbPhp\Exceptions\InternalServerErrorException;
-use Divulgueregional\ApiBbPhp\Exceptions\InvalidRequestException;
-use Divulgueregional\ApiBbPhp\Exceptions\ServiceUnavailableException;
-use Divulgueregional\ApiBbPhp\Exceptions\UnauthorizedException;
+use Troliveira\ApiBbPhp\Exceptions\InternalServerErrorException;
+use Troliveira\ApiBbPhp\Exceptions\InvalidRequestException;
+use Troliveira\ApiBbPhp\Exceptions\ServiceUnavailableException;
+use Troliveira\ApiBbPhp\Exceptions\UnauthorizedException;
 use Exception;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;

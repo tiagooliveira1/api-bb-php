@@ -6,7 +6,7 @@ Obter token oAuth
 ```php
     require_once './api-bb-php/vendor/autoload.php';
 
-    use Divulgueregional\ApiBbPhp\BankingBB;
+    use Troliveira\ApiBbPhp\BankingBB;
 
     $config = [
         'endPoints' => 1, //1-Produção; 2- Homologação

@@ -8,7 +8,7 @@ Cobrança - Dados fictícios para Testes
 ```php
     require_once './api-bb-php/vendor/autoload.php';
 
-    use Divulgueregional\ApiBbPhp\BankingBB;
+    use Troliveira\ApiBbPhp\BankingBB;
 
     $config = [
         'endPoints' => 2, //1-Produção; 2- Homologação

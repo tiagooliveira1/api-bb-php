@@ -1,6 +1,6 @@
 {
     "name": "troliveira/api-bb-php",
-    "description": "Fork da API para gerar boletos do Banco do Brasil desenvolvido por Roseno Matos - divulgueregional/api-bb-php",
+    "description": "Fork da API para gerar boletos do Banco do Brasil desenvolvido por Roseno Matos - Troliveira/api-bb-php",
     "license": "MIT",
     "type": "library",
     "autoload": {
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "Roseno Matos",
-            "email": "roseno@divulgueregional.com.br"
+            "email": "roseno@Troliveira.com.br"
         }
     ],
     "minimum-stability": "dev",

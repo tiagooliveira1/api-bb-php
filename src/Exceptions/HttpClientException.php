@@ -1,6 +1,6 @@
 <?php
 
-namespace Divulgueregional\ApiBbPhp\Exceptions;
+namespace Troliveira\ApiBbPhp\Exceptions;
 
 class HttpClientException extends \Exception
 {

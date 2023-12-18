@@ -8,7 +8,7 @@ Esse projeto foi implementado as funcionalidades de COBRANÇA, utilizando comuni
 <b>Instalação: </b>
 Para utilizar a biblioteca através do composer:
 ```php
-composer require divulgueregional/api-bb-php
+composer require Troliveira/api-bb-php
 ```
 
 ```php
@@ -22,7 +22,7 @@ composer update
 ```
 <b>Ou pela última tag: </b>
 ```php
-composer update divulgueregional/api-bb-php 1.0.7
+composer update Troliveira/api-bb-php 1.0.7
 ```
 
 ```php
@@ -142,10 +142,10 @@ Acesse a pasta docs e leia o README.md
 Roseno Matos (developer) rosenomatos@gmail.com<br>
 
 ## Licença:
-A API-BB-PHP é licenciado sob a Licença MIT (MIT). Você pode usar, copiar, modificar, integrar, publicar, distribuir e/ou vender cópias dos produtos finais, mas deve sempre declarar que Roseno Matos (rosenomatos@gmail.com) é o autor original destes códigos e atribuir um link para https://github.com/divulgueregional/api-bb-php
+A API-BB-PHP é licenciado sob a Licença MIT (MIT). Você pode usar, copiar, modificar, integrar, publicar, distribuir e/ou vender cópias dos produtos finais, mas deve sempre declarar que Roseno Matos (rosenomatos@gmail.com) é o autor original destes códigos e atribuir um link para https://github.com/Troliveira/api-bb-php
 
 ## Comunidade:
 ## Facilitou sua vida?
 Se o projeto o ajudou em uma tarefa excencial a sua aplicação de uma forma simples e se gostaria de contribuir com uma pequena doação ao autor, faça pelo PIX abaixo<br><hr>
 
-Chave Pix E-MAIL: roseno@divulgueregional.com.br
+Chave Pix E-MAIL: roseno@Troliveira.com.br

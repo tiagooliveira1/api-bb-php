@@ -1,8 +1,8 @@
 <?php
 
-namespace Divulgueregional\ApiBbPhp\Exceptions;
+namespace Troliveira\ApiBbPhp\Exceptions;
 
-use Divulgueregional\ApiBbPhp\Exceptions\HttpClientException;
+use Troliveira\ApiBbPhp\Exceptions\HttpClientException;
 
 class UnauthorizedException extends HttpClientException
 {
