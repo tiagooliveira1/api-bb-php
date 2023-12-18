@@ -10,6 +10,12 @@ Para utilizar a biblioteca através do composer:
 ```php
 composer require divulgueregional/api-bb-php
 ```
+
+```php
+composer require troliveira/api-bb-php
+```
+
+
 ## Atualizar:
 ```php
 composer update
@@ -17,6 +23,10 @@ composer update
 <b>Ou pela última tag: </b>
 ```php
 composer update divulgueregional/api-bb-php 1.0.7
+```
+
+```php
+composer update troliveira/api-bb-php 1.0.7
 ```
 
 ## Documentação:
